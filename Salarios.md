@@ -25,6 +25,7 @@ public class Salarios {
         
         System.out.println("El sueldo de "+nombre+ " por esta semana fue de: $"+sueldo);
         
+	System.out.println( +nombre+ "Hizo un excelente trabajo");
         
     }
     
